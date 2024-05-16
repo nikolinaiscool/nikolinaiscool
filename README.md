@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nikolinaiscool
+- 👋 Hi, I’m Nikolina :)
 - 👀 I’m interested in Software Devlopment and Gaming!!
 - 🌱 I’m currently learning and trying to master C++ and other coding languages 🥸
 - 💞️ I’m looking to collaborate on projects or any work!!
